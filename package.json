@@ -1,8 +1,7 @@
 {
-  "name": "todo",
+  "name": "ling-todo",
   "version": "0.0.1",
-  "description": "",
-  "homepage": "",
+  "description": "A todo cli tool.",
   "author": {
     "name": "Ling",
     "email": "i@zeroling.com",
@@ -13,7 +12,7 @@
   ],
   "main": "dist/index.js",
   "keywords": [
-    ""
+    "todo"
   ],
   "devDependencies": {
     "eslint-config-xo-space": "^0.7.0",

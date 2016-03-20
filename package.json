@@ -1,6 +1,6 @@
 {
   "name": "ling-todo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A todo cli tool.",
   "author": {
     "name": "Ling",
@@ -8,7 +8,8 @@
     "url": "https://www.zeroling.com"
   },
   "files": [
-    "dist"
+    "dist",
+    "config.js"
   ],
   "main": "dist/index.js",
   "keywords": [

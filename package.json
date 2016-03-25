@@ -11,7 +11,7 @@
     "dist",
     "config.js"
   ],
-  "main": "dist/index.js",
+  "main": "dist/todo-cli.js",
   "keywords": [
     "todo"
   ],
@@ -43,7 +43,7 @@
     "test": "gulp"
   },
   "bin": {
-    "todo": "./dist/index.js"
+    "todo": "./dist/todo-cli.js"
   },
   "license": "MIT",
   "dependencies": {

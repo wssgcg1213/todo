@@ -1,6 +1,6 @@
 {
   "name": "ling-todo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A todo cli tool.",
   "author": {
     "name": "Ling",
@@ -48,6 +48,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0",
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "graceful-fs": "^4.1.3"
   }
 }
